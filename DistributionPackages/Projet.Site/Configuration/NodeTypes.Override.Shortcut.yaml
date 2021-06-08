@@ -1,0 +1,6 @@
+
+'Neos.Neos:Shortcut':
+  constraints:
+    nodeTypes:
+      'Projet.Site:Document.HomePage': false
+      'Projet.Site:Constraint.Document.Restricted': false

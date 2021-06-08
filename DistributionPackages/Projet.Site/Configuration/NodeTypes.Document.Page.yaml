@@ -1,0 +1,7 @@
+'Projet.Site:Document.Page':
+  superTypes:
+    'Projet.Site:Document.AbstractPage': true
+  ui:
+    label: i18n
+    icon: icon-file-o
+    position: 100
